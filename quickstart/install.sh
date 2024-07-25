@@ -4,4 +4,4 @@
 #/usr/bin/chmod +x /home/gayathri/FOTA_Testing/kanto_0.1.0-M3_linux_x86_64.deb
 cd /home/gayathri/FOTA_Testing/
 apt-get update
-apt install ./kanto_0.1.0-M3_linux_x86_64.deb
+apt install -y ./kanto_0.1.0-M3_linux_x86_64.deb
