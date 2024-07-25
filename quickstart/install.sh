@@ -6,5 +6,5 @@
 #/usr/bin/cp -rf kanto_1.0.0_linux_x86_64.deb /home/gayathri/FOTA_Testing
 cd /home/gayathri/FOTA_Testing/
 apt-get update
-apt-get -y install  ./kanto_0.1.0-M3_linux_x86_64.deb
+apt-get --allow-downgrades install  ./kanto_0.1.0-M3_linux_x86_64.deb
 #apt install ./kanto_1.0.0_linux_x86_64.deb
