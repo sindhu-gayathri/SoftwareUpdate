@@ -1,0 +1,6 @@
+{
+  "container_name": "influxdb",
+  "image": {
+    "name": "docker.io/library/influxdb:latest"
+  }
+}
