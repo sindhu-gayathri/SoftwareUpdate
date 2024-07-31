@@ -1,6 +1,6 @@
 {
   "container_name": "gs-ping",
   "image": {
-    "name": "docker.io/gayathri2006/gs-ping:v1"
+    "name": "docker.io/gayathri2006/gs-ping:v1.0"
   }
-}
+} 
