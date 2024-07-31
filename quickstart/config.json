@@ -1,6 +1,6 @@
 {
-  "container_name": "influxdb",
+  "container_name": "gs-ping",
   "image": {
-    "name": "docker.io/library/influxdb:latest"
+    "name": "docker.io/gayathri2006/gs-ping:v1"
   }
 }
