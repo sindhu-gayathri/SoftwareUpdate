@@ -1,6 +1,6 @@
 {
-  "container_name": "hello",
+  "container_name": "test",
   "image": {
-    "name": "docker.io/sj1994/hello:latest"
+    "name": "docker.io/sj1994/linarotestapp:v4.0"
   }
 } 
