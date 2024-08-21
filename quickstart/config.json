@@ -1,6 +1,6 @@
 {
-  "container_name": "4c6a660f-3b36-4c3c-a55d-f4bce078f6c7",
+  "container_name": "hello",
   "image": {
-    "name": "docker.io/gayathri2006/gs-ping:v1.0"
+    "name": "docker.io/sj1994/hello:latest"
   }
 } 
