@@ -7,4 +7,4 @@ systemctl restart file-upload
 sleep 10 
 
 pip3 install servefile 
-servefile -u /var/log/suite-connector/
+servefile -u /var/log/aws-connector/
