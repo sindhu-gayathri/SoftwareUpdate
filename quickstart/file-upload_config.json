@@ -1,0 +1,19 @@
+{
+    "featureId": "AutoUploadable",
+    "type": "file",
+    "files": "/var/log/aws-connector/*.*",
+    "mode": "strict",
+    "singleUpload": true,
+    "checksum": true,
+    "stopTimeout": "30s",
+    "active": true,
+    "activeFrom": "1724996425",
+    "activeTill": "1724997425",
+    "period": "1h",
+    "broker": "tcp://localhost:1883",
+    "logFile": "/var/log/file-upload/file-upload.log",
+    "logLevel": "TRACE",
+    "logFileCount": 5,
+    "logFileMaxAge": 28,
+    "logFileSize": 2
+}
