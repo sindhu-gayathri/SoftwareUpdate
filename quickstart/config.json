@@ -1,6 +1,10 @@
 {
-  "container_name": "test",
+  "container_name": "fileread",
   "image": {
-    "name": "docker.io/sj1994/linarotestapp:v4.0"
+    "name": "docker.io/gayathri2006/go-file-reader:latest"
+  },
+  "mount_points": {
+    "source": "/home/gayathri/Kanto/dkrImage_fileread/example.txt",
+    "destination": "/app/example.txt"
   }
 } 
