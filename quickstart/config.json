@@ -3,10 +3,12 @@
   "image": {
     "name": "docker.io/gayathri2006/go-file-reader:latest"
   },
+  "host_config": {
+    "privileged": true
+  },
   "mount_points": {
     "source": "/home/gayathri/Kanto/dkrImage_fileread/example.txt",
-    "destination": "/app/example.txt",
-    "propagation_mode": "rprivate"
+    "destination": "/app/example.txt"
   }
 }
 
