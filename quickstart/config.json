@@ -7,7 +7,7 @@
     "privileged": true
   },
   "mount_points": {
-    "source": "/home/gayathri/Kanto/dkrImage_fileread/example.txt",
+    "source": "/home/gayathri/Kanto/example.txt",
     "destination": "/app/example.txt"
   }
 }
