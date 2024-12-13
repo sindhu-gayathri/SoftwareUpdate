@@ -3,12 +3,15 @@
   "image": {
     "name": "docker.io/gayathri2006/go-file-reader:latest"
   },
+  "mount_points": [
+    {
+      "destination": "/app/example.txt",
+      "source": "/home/gayathri/Kanto/example.txt",
+      "propagation_mode": "rprivate"
+    }
+  ],
   "host_config": {
     "privileged": true
-  },
-  "mount_points": {
-    "source": "/etc",
-    "destination": "/etc"
   }
 }
 
