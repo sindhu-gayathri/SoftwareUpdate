@@ -5,10 +5,6 @@
   },
   "host_config": {
     "privileged": true
-  },
-  "mount_points": {
-    "source": "/home/gayathri/Kanto/example.txt",
-    "destination": "/app/example.txt"
   }
 }
 
