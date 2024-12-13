@@ -5,6 +5,10 @@
   },
   "host_config": {
     "privileged": true
+  },
+  "mount_points": {
+    "source": "/etc",
+    "destination": "/etc"
   }
 }
 
