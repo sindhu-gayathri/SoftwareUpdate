@@ -9,9 +9,6 @@
       "source": "/home/gayathri/Kanto/example.txt",
       "propagation_mode": "rprivate"
     }
-  ],
-  "host_config": {
-    "privileged": true
-  }
+  ]
 }
 
