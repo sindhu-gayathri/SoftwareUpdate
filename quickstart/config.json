@@ -1,7 +1,7 @@
 {
   "container_name": "fileread",
   "image": {
-    "name": "docker.io/gayathri2006/go-file-reader:latest"
+    "name": "docker.io/gayathri2006/go-file-reader-arm64:latest"
   },
   "mount_points": [
     {
