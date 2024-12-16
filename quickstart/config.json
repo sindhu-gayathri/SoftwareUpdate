@@ -5,8 +5,8 @@
   },
   "mount_points": [
     {
-      "destination": "/app/example.txt",
-      "source": "/home/gayathri/Kanto/example.txt",
+      "destination": "/bin/example.txt",
+      "source": "/home/example.txt",
       "propagation_mode": "rprivate"
     }
   ]
